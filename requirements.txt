@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+httpx
+requests
+# dependencias del repo krypton-byte/tiktok-downloader
+beautifulsoup4
+cloudscraper
+aiohttp
+tqdm
+rich
+flask
+moviepy==1.0.3
+pyjsparser
+js2py
